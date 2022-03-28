@@ -1,3 +1,42 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
 
+body {
+  background-image: url(/LandingPage/img/thumb2-.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: #fff;
+}
+
+.container1 {
+  background-color: #131212f1;
+  width: 700px;
+  height: auto;
+}
+
+.topLogo {
+  width: 190%;
+}
+
+.paragraph {
+  margin: 8px 8px;
+}
+
+.btnEnviar {
+  color: #ff0043;
+  border: 1px solid #ff0043;
+}
+.btnEnviar:hover {
+  background-color: #ff0043;
+  color: #fff;
+}
+
+.fotter {
+  margin-top: 30px;
+  margin-bottom: -50px;
+}
 
 /*# sourceMappingURL=style.css.map */
